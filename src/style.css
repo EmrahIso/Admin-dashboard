@@ -670,7 +670,7 @@ p, h1, h2, h3, h4, h5, h6 {
   gap: .5rem;
 }
 
-.section-skills h4 {
+.section-skills h3 {
   font-family: var(--font-light);
   letter-spacing: 1px;
   font-size: var(--fs-200);
